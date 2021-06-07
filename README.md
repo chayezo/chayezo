@@ -1,12 +1,13 @@
 ### Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayezo&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayezo&theme=solarized_dark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chayezo&theme=solarized-dark&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chayezo&theme=solarized_dark)
+
 
 
 <!--
 **chayezo/chayezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chayezo&theme=solarized-dark&show_icons=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
