@@ -1,7 +1,7 @@
 ### Hi there 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayezo&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayezo&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chayezo&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayezo&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayezo&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chayezo&theme=nord_bright)
 
 
 
