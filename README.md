@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayezo&theme=vision-friendly-dark&show_icons=true)
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chayezo&repo=algorithm&theme=vision-friendly-dark&show_owner=true)](https://github.com/chayezo/algorithm)
-
+-->
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayezo&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayezo&theme=nord_bright)
